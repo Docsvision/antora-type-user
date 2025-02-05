@@ -1,11 +1,11 @@
-name: changes
+name: type-user
 version: dev
 #start_page: ROOT:index.adoc
 #display_version: 'dev'
-title: Список изменений
+title: Пользовательский раздел Docsvision
 asciidoc:
   attributes:
     upgrade: ''
 
 nav:
-- modules/ROOT/nav.adoc
+- modules/ROOT/type-user.adoc
