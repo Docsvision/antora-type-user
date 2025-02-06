@@ -1,5 +1,5 @@
-.xref:dev@webclient:user:index.adoc[Список изменений]
-* xref:dev@webclient:user:index.adoc[]
+.xref:index.adoc[]
+* xref:index.adoc[]
 
 * xref:dev@system:ROOT:index.adoc[]
 ** xref:ROOT:ROOT:timeline.adoc[Изменения в продукте]
