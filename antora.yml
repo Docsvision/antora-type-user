@@ -1,7 +1,5 @@
 name: type-user
-version: dev
-#start_page: ROOT:index.adoc
-#display_version: 'dev'
+version: ~
 title: Пользовательский раздел Docsvision
 asciidoc:
   attributes:
