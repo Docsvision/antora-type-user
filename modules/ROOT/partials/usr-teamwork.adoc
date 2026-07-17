@@ -1,0 +1,7 @@
+** Руководство пользователя модуля {tw}
+*** xref:6.1@teamwork:user:calendar.adoc[]
+**** xref:6.1@teamwork:user:virtual-folder.adoc[]
+*** xref:6.1@teamwork:user:kanban.adoc[]
+**** xref:6.1@teamwork:user:kanban-add-cards.adoc[]
+**** xref:6.1@teamwork:user:kanban-create-cards.adoc[]
+**** xref:6.1@teamwork:user:kanban-move-cards.adoc[]

@@ -1,0 +1,13 @@
+.Руководство пользователя модуля {dv} AI
+** xref:6.1@ai-module:user:index.adoc[]
+*** xref:6.1@ai-module:user:improve.adoc[]
+*** xref:6.1@ai-module:user:summary.adoc[]
+*** xref:6.1@ai-module:user:question.adoc[]
+*** xref:6.1@ai-module:user:compare.adoc[]
+*** xref:6.1@ai-module:user:analysis.adoc[]
+*** xref:6.1@ai-module:user:generate.adoc[]
+*** xref:6.1@ai-module:user:aloud.adoc[]
+*** xref:6.1@ai-module:user:attributes.adoc[]
+*** xref:6.1@ai-module:user:protocol.adoc[]
+*** xref:6.1@ai-module:user:voice.adoc[]
+*** xref:6.1@ai-module:user:feedback.adoc[]

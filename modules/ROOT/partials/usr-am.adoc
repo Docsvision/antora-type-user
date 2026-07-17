@@ -1,0 +1,22 @@
+** Руководство пользователя {am} 6.1
+*** xref:6.1@archivemgmt:user:directory.adoc[]
+**** xref:6.1@archivemgmt:user:years.adoc[]
+**** xref:6.1@archivemgmt:user:sections.adoc[]
+**** xref:6.1@archivemgmt:user:cases.adoc[]
+**** xref:6.1@archivemgmt:user:security.adoc[]
+**** xref:6.1@archivemgmt:user:search.adoc[]
+**** xref:6.1@archivemgmt:user:copy.adoc[]
+
+** Руководство пользователя {am} 6.2
+*** xref:6.2@archivemgmt:user:directory.adoc[]
+**** xref:6.2@archivemgmt:user:years.adoc[]
+**** xref:6.2@archivemgmt:user:sections.adoc[]
+**** xref:6.2@archivemgmt:user:cases.adoc[]
+**** xref:6.2@archivemgmt:user:books.adoc[]
+**** xref:6.2@archivemgmt:user:archive-docs.adoc[]
+**** xref:6.2@archivemgmt:user:nomenclature.adoc[]
+**** xref:6.2@archivemgmt:user:funds.adoc[]
+**** xref:6.2@archivemgmt:user:inventories.adoc[]
+**** xref:6.2@archivemgmt:user:security.adoc[]
+**** xref:6.2@archivemgmt:user:search.adoc[]
+**** xref:6.2@archivemgmt:user:copy.adoc[]

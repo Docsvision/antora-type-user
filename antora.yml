@@ -1,6 +1,6 @@
 name: type-user
 version: ~
-title: Пользовательский раздел Docsvision
+title: Раздел пользователя Docsvision
 asciidoc:
   attributes:
     upgrade: ''
